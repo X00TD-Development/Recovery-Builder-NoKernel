@@ -14,8 +14,8 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  MANIFEST_BRANCH: fox_9.0
+  MANIFEST: https://github.com/SHRP/manifest.git 
+  MANIFEST_BRANCH: v3_11.0
   DEVICE: m32
   DT_LINK: https://github.com/X00TD-Development/android_device_samsung_m32
   DT_PATH: device/samsung/m32
