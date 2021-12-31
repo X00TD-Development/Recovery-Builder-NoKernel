@@ -17,7 +17,7 @@ env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
   MANIFEST_BRANCH: fox_9.0
   DEVICE: m32
-  DT_LINK: https://github.com/flashokillerify/android_device_samsung_m32
+  DT_LINK: https://github.com/X00TD-Development/android_device_samsung_m32
   DT_PATH: device/samsung/m32
   TARGET: recoveryimage
   TZ: Asia/Kolkata
